@@ -91,6 +91,25 @@ Libraries
 Graphics
 --------
 
+Graphical User Interfaces (GUI)
+-------------------------------
+
+Text User Interfaces (TUI)
+--------------------------
+
+Databases
+---------
+
+Asynchronous Scheduling and I/O
+-------------------------------
+
+Protocols
+---------
+
+Web Frameworks
+--------------
+
+
 Education and courses
 =====================
 
