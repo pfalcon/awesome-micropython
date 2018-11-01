@@ -88,6 +88,13 @@ connecting over UART (serial) or USB to another device.
 Libraries
 =========
 
+Standard Libraries
+------------------
+
+* [micropython-lib](https://github.com/pfalcon/micropython-lib) - dozens
+  of modules ported from CPython, dozens developed specifically for
+  MicroPython.
+
 Graphics
 --------
 
