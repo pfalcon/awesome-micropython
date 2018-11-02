@@ -79,6 +79,7 @@ Hardware-specific Forks
 -----------------------
 
 * [RISC-V LoFive](https://github.com/mmicko/micropython)
+* many more to come
 
 Documentation
 =============
