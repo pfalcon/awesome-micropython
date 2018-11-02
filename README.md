@@ -1,8 +1,8 @@
 Awesome MicroPython
 ===================
 
-MicroPython came known as a "Python for microcontrollers". It's far more
-than that.
+[MicroPython](https://micropython.org) came known as a "Python for
+microcontrollers". It's far more than that.
 
 MicroPython is a full-stack language, which, unlike many other languages,
 is concerned not only with scaling up, but also with scaling down. This
