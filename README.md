@@ -78,6 +78,17 @@ POSIX-compatible RTOS.
 Hardware-specific Forks
 -----------------------
 
+Documentation
+=============
+
+* [Project to complete the docs](http://pycopy.readthedocs.io/) -
+  Online searchable documentation for language aspects and builtin modules.
+* [Mainline docs](http://docs.micropython.org/) lag in updates.
+* [CPython 3.5 docs](https://docs.python.org/3.5/) - MicroPython is an
+  implementation of the Python language, so main Python docs provide
+  the relevant background information (MicroPython's own docs concentrate
+  on differences with CPython and new features added.)
+
 Tools
 =====
 
