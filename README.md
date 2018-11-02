@@ -116,6 +116,18 @@ Protocols
 Web Frameworks
 --------------
 
+Interfacing with Other Languages
+--------------------------------
+
+* [ffi](https://pycopy.readthedocs.io/en/latest/library/ffi.html) -
+  Foreign Function Interface module for MicroPython. Call C, etc. functions
+  from dynamic libraries or just in memory.
+* [uctypes](https://pycopy.readthedocs.io/en/latest/library/uctypes.html) -
+  "Foreign Data" interface for MicroPython. Access binary data structures
+  with the expressiveness of C language. "ffi" and "uctypes" modules commonly
+  used together.
+* [jni](https://github.com/pfalcon/micropython/blob/pfalcon/ports/unix/modjni.c) -
+  Module for JavaVM integration (using JNI).
 
 Education and courses
 =====================
