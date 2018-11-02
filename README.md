@@ -78,6 +78,8 @@ POSIX-compatible RTOS.
 Hardware-specific Forks
 -----------------------
 
+* [RISC-V LoFive](https://github.com/mmicko/micropython)
+
 Documentation
 =============
 
