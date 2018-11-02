@@ -84,6 +84,8 @@ Hardware-specific Forks
 Documentation
 =============
 
+* [README](https://github.com/micropython/micropython/blob/master/README.md) -
+  Never to miss the project README, it's an entry to the MicroPython universe.
 * [Project to complete the docs](http://pycopy.readthedocs.io/) -
   Online searchable documentation for language aspects and builtin modules.
 * [Mainline docs](http://docs.micropython.org/) lag in updates.
