@@ -31,8 +31,11 @@ you are free to share and reuse contents of this list, as long as you
 give credit to the original author and allow other people to share/reuse
 it under the same terms.
 
-Forks
-=====
+Forks and Variants
+==================
+
+Notable Forks
+-------------
 
 There are more than 2000 forks of MicroPython on Github, and here are
 a few notable ones:
@@ -54,8 +57,8 @@ Wealth of online tutorials and educational resources.
 by [@loboris](https://github.com/loboris). Concentrates on ESP32. A number
 of C libraries are wrapped.
 
-OS/RTOS ports/forks
-===================
+OS/RTOS Ports/Forks
+-------------------
 
 * POSIX/Unix - part of the mainline. The POSIX port is the biggest and most
 important MicroPython target, alone supporting thousands of diverse computer
@@ -71,6 +74,9 @@ more than 100 boards supported.
 RTOS for ARM microcontrollers, dozens of boards supported.
 * [FrostedOS port](https://github.com/insane-adding-machines/micropython) -
 POSIX-compatible RTOS.
+
+Hardware-specific Forks
+-----------------------
 
 Tools
 =====
