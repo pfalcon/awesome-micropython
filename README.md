@@ -151,6 +151,16 @@ Interfacing with Other Languages
 * [jni](https://github.com/pfalcon/micropython/blob/pfalcon/ports/unix/modjni.c) -
   Module for JavaVM integration (using JNI).
 
+Textual Data Processing
+-----------------------
+
+* Regular expressions
+  * [ure](https://pycopy.readthedocs.io/en/latest/library/ure.html) (micro-re) -
+    builtin module which implements subset of regular expression syntax.
+  * [re-pcre](https://pypi.org/project/micropython-re-pcre/) -
+    more complete regular expression implementation, based on PCRE library,
+    largely compatible with full CPython re syntax.
+
 Education and courses
 =====================
 
