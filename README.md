@@ -117,6 +117,14 @@ Standard Libraries
   of modules ported from CPython, dozens developed specifically for
   MicroPython.
 
+Asynchronous Scheduling and I/O
+-------------------------------
+
+* [uasyncio](https://pypi.org/project/micropython-uasyncio/) (micro-asyncio) -
+  MicroPython’s asynchronous scheduling library, roughly modeled after
+  CPython’s asyncio. [Part](https://github.com/pfalcon/micropython-lib/tree/master/uasyncio)
+  of micropython-lib.
+
 Graphics
 --------
 
@@ -128,9 +136,6 @@ Text User Interfaces (TUI)
 
 Databases
 ---------
-
-Asynchronous Scheduling and I/O
--------------------------------
 
 Protocols
 ---------
