@@ -64,7 +64,7 @@ OS/RTOS Ports/Forks
 important MicroPython target, alone supporting thousands of diverse computer
 and device types, ranging from supercomputers to a few-dollar appliances.
 * Windows - part of the mainline. Runs on different Windows variants, from
-server down to Windows IoT.
+Server down to Windows IoT.
 * DOS/DJGPP - part of the mainline. Runs on DOS versions with support of x86
 extended mode.
 * [Zephyr port](https://github.com/pfalcon/micropython) - Modern advanced RTOS,
