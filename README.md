@@ -128,6 +128,9 @@ Asynchronous Scheduling and I/O
 Graphics
 --------
 
+* [framebuf](http://docs.micropython.org/en/latest/library/framebuf.html) -
+  builtin module for simple device-independent graphics.
+
 Graphical User Interfaces (GUI)
 -------------------------------
 
