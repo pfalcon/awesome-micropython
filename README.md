@@ -143,6 +143,12 @@ Databases
 Protocols
 ---------
 
+* HTTP
+  * [urequests](https://pypi.org/project/micropython-urequests/) (micro-requests) -
+    implements a subset of API of well-known "requests" module.
+    [Part](https://github.com/pfalcon/micropython-lib/tree/master/urequests) of
+    micropython-lib.
+
 Web Frameworks
 --------------
 
