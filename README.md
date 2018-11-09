@@ -140,6 +140,11 @@ Text User Interfaces (TUI)
 Databases
 ---------
 
+* [btree](https://pycopy.readthedocs.io/en/latest/library/btree.html) -
+  builtin module, simple "NoSQL" database with dictionary-like interface,
+  based on well-known BerkeleyDB 1.xx library. Available in both bare-metal
+  and OS ports.
+
 Protocols
 ---------
 
