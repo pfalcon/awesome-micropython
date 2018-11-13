@@ -31,6 +31,13 @@ you are free to share and reuse contents of this list, as long as you
 give credit to the original author and allow other people to share/reuse
 it under the same terms.
 
+* [Forks and Variants](#forks-and-variants)
+* [Documentation](#documentation)
+* [Tools](#tools)
+* [Libraries](#libraries)
+* [Education and courses](#education-and-courses)
+
+
 Forks and Variants
 ==================
 
