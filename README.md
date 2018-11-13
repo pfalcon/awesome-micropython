@@ -97,6 +97,9 @@ Documentation
 Tools
 =====
 
+Accessing MicroPython Prompt (REPL)
+-----------------------------------
+
 * Local access: MicroPython comes with REPL (read-evaluate print loop,
 interactive prompt), which you can access right in your terminal, or by
 connecting over UART (serial) or USB to another device.
@@ -106,6 +109,12 @@ connecting over UART (serial) or USB to another device.
   * WebREPL - REPL in your browser using Websockets! Official client:
     http://micropython.org/webrepl/ . Can be
     [deployed locally](https://github.com/micropython/webrepl/).
+
+Shells
+------
+
+IDEs
+----
 
 Libraries
 =========
