@@ -173,6 +173,9 @@ Protocols
 Web Frameworks
 --------------
 
+* [picoweb](https://github.com/pfalcon/picoweb/) - Really minimal web
+  application framework based on "uasyncio" module.
+
 Interfacing with Other Languages
 --------------------------------
 
