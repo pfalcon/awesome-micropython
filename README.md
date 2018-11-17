@@ -160,6 +160,9 @@ Databases
   builtin module, simple "NoSQL" database with dictionary-like interface,
   based on well-known BerkeleyDB 1.xx library. Available in both bare-metal
   and OS ports.
+* [sqlite3](https://pypi.org/project/micropython-sqlite3/) -
+  CPython's sqlite3 module ported to MicroPythin (for Unix port).
+  [Part](https://github.com/pfalcon/micropython-lib/tree/master/sqlite3)
 
 Protocols
 ---------
