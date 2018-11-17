@@ -85,6 +85,8 @@ POSIX-compatible RTOS.
 Hardware-specific Forks
 -----------------------
 
+* [Raspberry Pi A/B/Zero bare-metal](https://github.com/boochow/micropython-raspberrypi)
+  * Based on [@naums's fork](https://github.com/naums/micropython/commits/master)
 * [RISC-V LoFive](https://github.com/mmicko/micropython)
 * many more to come
 
