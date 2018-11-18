@@ -129,6 +129,8 @@ Shells
 IDEs
 ----
 
+* [Thonny](https://thonny.org/) has [MicroPython suport](https://bitbucket.org/plas/thonny/wiki/MicroPython)
+
 Libraries
 =========
 
