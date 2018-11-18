@@ -1,6 +1,10 @@
 Awesome MicroPython
 ===================
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/micropython/micropython/master/logo/micropythonpowered-art.png" alt="MicroPython Powered"/>
+</p>
+
 [MicroPython](https://micropython.org) came known as a "Python for
 microcontrollers". It's far more than that.
 
