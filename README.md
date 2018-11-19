@@ -161,6 +161,9 @@ Graphical User Interfaces (GUI)
 Text User Interfaces (TUI)
 --------------------------
 
+* [picotui](https://github.com/pfalcon/picotui) - Lightweight TUI widget
+  toolkit with minimal dependencies. Works both in MicroPython and CPython.
+
 Databases
 ---------
 
