@@ -158,6 +158,9 @@ Graphics
 Graphical User Interfaces (GUI)
 -------------------------------
 
+* [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) -
+  lightweight MicroPython GUI library for display drivers based on `framebuf` class
+
 Text User Interfaces (TUI)
 --------------------------
 
