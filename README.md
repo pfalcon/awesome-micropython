@@ -126,6 +126,24 @@ connecting over UART (serial) or USB to another device.
 Shells
 ------
 
+There're shells which run directly on a MicroPython device (or in a MicroPython
+process), and ones whict run on a host and connect to a device:
+
+On device:
+* [upysh](https://pypi.org/project/micropython-upysh/) - very minimal file
+  shell using Python syntax, suitable for devices even with little memory.
+  [Part](https://github.com/pfalcon/micropython-lib/tree/master/upysh)
+  of micropython-lib.
+* [upy-shell](https://github.com/dhylands/upy-shell) - simple command line
+  based shell.
+
+On host:
+* [rshell](https://github.com/dhylands/rshell) - remote shell for MicroPython.
+* [mpfshell](https://github.com/wendlers/mpfshell) - simple shell based file
+  explorer for Micropython based devices.
+* [ampy](https://github.com/adafruit/ampy) - utility to interact with a
+  MicroPython board over a serial connection.
+
 IDEs
 ----
 
