@@ -64,6 +64,8 @@ standards like LoRa, Sigfox, etc.
 by [@adafruit](https://github.com/adafruit/). Education friendly MicroPython
 fork, concentrating on microcontroller boards of a particular vendor.
 Wealth of online tutorials and educational resources.
+* [OpenMV](https://github.com/openmv/openmv) - by [@openmv](https://github.com/openmv).
+MicroPython fork for machine vision boards.
 * [Loboris ESP32 fork](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo) -
 by [@loboris](https://github.com/loboris). Concentrates on ESP32. A number
 of C libraries are wrapped.
