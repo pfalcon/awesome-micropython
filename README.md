@@ -235,6 +235,9 @@ Textual Data Processing
   * [re-pcre](https://pypi.org/project/micropython-re-pcre/) -
     more complete regular expression implementation, based on PCRE library,
     largely compatible with full CPython re syntax.
+* Templating
+  * [utemplate](https://github.com/pfalcon/utemplate) - Micro template engine
+    with low memory usage, based on generators.
 
 Education and courses
 =====================
