@@ -228,6 +228,9 @@ Interfacing with Other Languages
   used together.
 * [jni](https://github.com/pfalcon/micropython/blob/pfalcon/ports/unix/modjni.c) -
   Module for JavaVM integration (using JNI).
+* [micropython-ffigen](https://github.com/pfalcon/micropython-ffigen) -
+  Automatically generate bindings for `ffi`/`uctypes` modules from C header
+  files.
 
 Textual Data Processing
 -----------------------
