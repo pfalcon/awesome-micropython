@@ -231,6 +231,8 @@ Interfacing with Other Languages
 * [micropython-ffigen](https://github.com/pfalcon/micropython-ffigen) -
   Automatically generate bindings for `ffi`/`uctypes` modules from C header
   files.
+* [micropython-wrap](https://github.com/stinos/micropython-wrap) -
+  C++ wrapper to interface C++ code with MicroPython easily.
 
 Textual Data Processing
 -----------------------
