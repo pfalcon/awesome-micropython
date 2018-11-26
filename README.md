@@ -94,6 +94,7 @@ Hardware-specific Forks
 * [Raspberry Pi A/B/Zero bare-metal](https://github.com/boochow/micropython-raspberrypi)
   * Based on [@naums's fork](https://github.com/naums/micropython/commits/master)
 * [RISC-V LoFive](https://github.com/mmicko/micropython)
+* [Infeneon XMC](https://github.com/micropython/micropython-infineon)
 * many more to come
 
 Documentation
