@@ -212,6 +212,12 @@ Protocols
     [Part](https://github.com/pfalcon/micropython-lib/tree/master/urequests) of
     micropython-lib.
 
+* DNS
+  * [udnspkt](https://pypi.org/project/micropython-udnspkt/) - DNS queries,
+    [Sans I/O](https://sans-io.readthedocs.io/) approach.
+    [Part](https://github.com/pfalcon/micropython-lib/tree/master/udnspkt) of
+    micropython-lib.
+
 Web Frameworks
 --------------
 
