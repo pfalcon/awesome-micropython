@@ -202,6 +202,10 @@ Databases
 * [sqlite3](https://pypi.org/project/micropython-sqlite3/) -
   CPython's sqlite3 module ported to MicroPythin (for Unix port).
   [Part](https://github.com/pfalcon/micropython-lib/tree/master/sqlite3)
+* [micropython-redis](https://github.com/dwighthubbard/micropython-redis) -
+  Redis client.
+* [picoredis](https://github.com/SpotlightKid/picoredis) -
+  Another Redis client.
 
 Protocols
 ---------
