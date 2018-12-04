@@ -154,6 +154,7 @@ IDEs
 * [Thonny](https://thonny.org/) has [MicroPython suport](https://bitbucket.org/plas/thonny/wiki/MicroPython)
 * [PyCharm/IntelliJ IDEA](https://plugins.jetbrains.com/plugin/9777-micropython)
   has [MicroPython support](https://blog.jetbrains.com/pycharm/2018/01/micropython-plugin-for-pycharm/)
+* [Mu Editor](https://github.com/mu-editor/mu)
 * many more
 
 Libraries
