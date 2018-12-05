@@ -96,6 +96,7 @@ Hardware-specific Forks
 * [RISC-V LoFive](https://github.com/mmicko/micropython)
 * [MediaTek MT6260](https://github.com/xobs/micropython/)
 * [Infeneon XMC](https://github.com/micropython/micropython-infineon)
+* [NXP i.MX RT/LPC546](https://github.com/RockySong/micropython-rocky)
 * many more to come
 
 Documentation
