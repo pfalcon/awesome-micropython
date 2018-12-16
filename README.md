@@ -167,6 +167,9 @@ Standard Libraries
 * [micropython-lib](https://github.com/pfalcon/micropython-lib) - dozens
   of modules ported from CPython, dozens developed specifically for
   MicroPython.
+* [Backports of MicroPython API modules to CPython](https://github.com/pfalcon/micropython-lib#cpython-backports) -
+  Allows to run software written for MicroPython using CPython (WIP). Part
+  of micropython-lib.
 
 Asynchronous Scheduling and I/O
 -------------------------------
