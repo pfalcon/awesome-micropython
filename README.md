@@ -149,6 +149,20 @@ On host:
 * [ampy](https://github.com/adafruit/ampy) - utility to interact with a
   MicroPython board over a serial connection.
 
+Package Management
+------------------
+
+* Packages are distributed via [Python Package Index (PyPI)](https://pypi.org/search/?q=micropython),
+  like packages for any other Python implementation.
+* Installable using [upip](https://github.com/pfalcon/micropython-lib#usage)
+  package manager (built into Unix port and some other ports with
+  networking capabilities, part of micropython-lib otherwise).
+* Documentation of [MicroPython package usage](https://pycopy.readthedocs.io/en/latest/reference/packages.html)
+  * For non-networked ports, packages can be "cross-installed" on a host,
+    and copied to device (manually or using host-side shells above).
+  * For ultimate RAM efficiency, packages can be "frozen" into MicroPython
+    binary.
+
 IDEs
 ----
 
