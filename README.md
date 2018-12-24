@@ -241,6 +241,10 @@ Protocols
     [Part](https://github.com/pfalcon/micropython-lib/tree/master/udnspkt) of
     micropython-lib.
 
+* Websocket
+  * [websocket](https://github.com/pfalcon/micropython/blob/pfalcon/extmod/modwebsocket.c) - 
+  builtin provisional module (i.e. details of API is subject to change).
+
 Web Frameworks
 --------------
 
