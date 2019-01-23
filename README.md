@@ -285,6 +285,11 @@ Textual Data Processing
 Learning MicroPython
 ====================
 
+Sites
+-----
+
+* [MicroPython category in Adafruit Learning System](https://learn.adafruit.com/category/micropython)
+
 Academia
 --------
 
