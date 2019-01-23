@@ -39,7 +39,7 @@ it under the same terms.
 * [Documentation](#documentation)
 * [Tools](#tools)
 * [Libraries](#libraries)
-* [Education and courses](#education-and-courses)
+* [Learning MicroPython](#learning-micropython)
 
 
 Forks and Variants
@@ -282,7 +282,10 @@ Textual Data Processing
   * [utemplate](https://github.com/pfalcon/utemplate) - Micro template engine
     with low memory usage, based on generators.
 
-Education and courses
-=====================
+Learning MicroPython
+====================
+
+Academia
+--------
 
 * University of California, Berkeley. [EE 49: Electronics for IoT](https://people.eecs.berkeley.edu/~boser/courses/49/index.html).
