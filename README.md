@@ -87,6 +87,9 @@ more than 100 boards supported.
 RTOS for ARM microcontrollers, dozens of boards supported.
 * [FrostedOS port](https://github.com/insane-adding-machines/micropython) -
 POSIX-compatible RTOS.
+* [UEFI port](https://github.com/tianocore/tianocore.github.io/wiki/MicroPython) -
+port to UEFI (BIOS replacement framework) by Intel
+([ANN](https://software.intel.com/en-us/blogs/2018/03/08/implementing-micropython-as-a-uefi-test-framework)).
 
 Hardware-specific Forks
 -----------------------
