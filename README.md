@@ -213,6 +213,8 @@ Text User Interfaces (TUI)
 
 * [picotui](https://github.com/pfalcon/picotui) - Lightweight TUI widget
   toolkit with minimal dependencies. Works both in MicroPython and CPython.
+* [FBConsole](https://github.com/boochow/FBConsole) - MicroPython terminal
+  (dupterm) over framebuffer.
 
 Databases
 ---------
