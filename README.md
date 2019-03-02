@@ -228,6 +228,7 @@ Databases
   Redis client.
 * [picoredis](https://github.com/SpotlightKid/picoredis) -
   Another Redis client.
+* [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - MySQL client.
 
 Protocols
 ---------
