@@ -100,7 +100,7 @@ Hardware-specific Forks
 * [MediaTek MT6260](https://github.com/xobs/micropython/)
 * [Infeneon XMC](https://github.com/micropython/micropython-infineon)
 * [NXP i.MX RT/LPC546](https://github.com/RockySong/micropython-rocky)
-* many more to come
+* many more to be listed
 
 Documentation
 =============
@@ -287,6 +287,12 @@ Textual Data Processing
 * Templating
   * [utemplate](https://github.com/pfalcon/utemplate) - Micro template engine
     with low memory usage, based on generators.
+
+Sciences
+--------
+
+* [uMath](https://github.com/AaronKel/uMath) - Symbolic computer algebra system
+  (CAS)
 
 Learning MicroPython
 ====================
