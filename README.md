@@ -302,7 +302,14 @@ Sites
 
 * [MicroPython category in Adafruit Learning System](https://learn.adafruit.com/category/micropython)
 
+Books
+-----
+
+* [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](https://books.google.com/books/about/Programming_with_MicroPython.html?id=Bic3DwAAQBAJ),
+  Nicholas H. Tollervey, 2017
+
 Academia
 --------
 
 * University of California, Berkeley. [EE 49: Electronics for IoT](https://people.eecs.berkeley.edu/~boser/courses/49/index.html).
+
