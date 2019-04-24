@@ -207,6 +207,8 @@ Graphical User Interfaces (GUI)
 
 * [micropython-nano-gui](https://github.com/peterhinch/micropython-nano-gui) -
   lightweight MicroPython GUI library for display drivers based on `framebuf` class
+* [LittlevGL bindings](https://github.com/littlevgl/lv_binding_micropython) -
+  Bindings for [LittlevGL](https://littlevgl.com/) GUI library (C).
 
 Text User Interfaces (TUI)
 --------------------------
