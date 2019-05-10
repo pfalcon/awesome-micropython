@@ -309,6 +309,8 @@ Books
 
 * [Programming with MicroPython: Embedded Programming with Microcontrollers and Python](https://books.google.com/books/about/Programming_with_MicroPython.html?id=Bic3DwAAQBAJ),
   Nicholas H. Tollervey, 2017
+* [MicroPython for the Internet of Things: A Beginner’s Guide to Programming with Python on Microcontrollers](https://books.google.com/books/about/MicroPython_for_the_Internet_of_Things.html?id=70NADwAAQBAJ),
+  Charles Bell, 2017
 
 Academia
 --------
