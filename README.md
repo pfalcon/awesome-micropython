@@ -276,6 +276,7 @@ Interfacing with Other Languages
   files.
 * [micropython-wrap](https://github.com/stinos/micropython-wrap) -
   C++ wrapper to interface C++ code with MicroPython easily.
+* [ullvm](https://github.com/pfalcon/ullvm) - Bindings for LLVM C API.
 
 Textual Data Processing
 -----------------------
