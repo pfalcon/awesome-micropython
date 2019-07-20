@@ -51,12 +51,12 @@ Notable Forks
 There are more than 2000 forks of MicroPython on Github, and here are
 a few notable ones:
 
-* [Advanced MicroPython (codename "Pycopy")](https://github.com/pfalcon/micropython) -
+* [Pycopy](https://github.com/pfalcon/pycopy) -
 by [@pfalcon](https://github.com/pfalcon/), 2nd largest (~35%) contributor
 to MicroPython. Dedicated to further developing all the great features which
 were initially contributed to the mainline - stream I/O interface, async
 support, memory-saving APIs, etc. Also to optimizations, bugfixes and improved
-documentation. Synced with the mainline, improvements contributed back.
+documentation. Synced with the mainline.
 * [Pycom MicroPython](https://github.com/pycom/pycom-micropython-sigfox) -
 by [@pycom](https://github.com/pycom/). Support for modern communication
 standards like LoRa, Sigfox, etc.
@@ -107,7 +107,7 @@ Documentation
 
 * [README](https://github.com/micropython/micropython/blob/master/README.md) -
   Never to miss the project README, it's an entry to the MicroPython universe.
-* [Project to complete the docs](http://pycopy.readthedocs.io/) -
+* [Pycopy docs](http://pycopy.readthedocs.io/) are more complete -
   Online searchable documentation for language aspects and builtin modules.
 * [Mainline docs](http://docs.micropython.org/) lag in updates.
 * [CPython 3.5 docs](https://docs.python.org/3.5/) - MicroPython is an
@@ -138,10 +138,10 @@ There're shells which run directly on a MicroPython device (or in a MicroPython
 process), and ones whict run on a host and connect to a device:
 
 On device:
-* [upysh](https://pypi.org/project/micropython-upysh/) - very minimal file
+* [upysh](https://pypi.org/project/pycopy-upysh/) - very minimal file
   shell using Python syntax, suitable for devices even with little memory.
-  [Part](https://github.com/pfalcon/micropython-lib/tree/master/upysh)
-  of micropython-lib.
+  [Part](https://github.com/pfalcon/pycopy-lib/tree/master/upysh)
+  of pycopy-lib.
 * [upy-shell](https://github.com/dhylands/upy-shell) - simple command line
   based shell.
 
@@ -157,9 +157,9 @@ Package Management
 
 * Packages are distributed via [Python Package Index (PyPI)](https://pypi.org/search/?q=micropython),
   like packages for any other Python implementation.
-* Installable using [upip](https://github.com/pfalcon/micropython-lib#usage)
+* Installable using [upip](https://github.com/pfalcon/pycopy-lib#usage)
   package manager (built into Unix port and some other ports with
-  networking capabilities, part of micropython-lib otherwise).
+  networking capabilities, part of pycopy-lib otherwise).
 * Documentation of [MicroPython package usage](https://pycopy.readthedocs.io/en/latest/reference/packages.html)
   * For non-networked ports, packages can be "cross-installed" on a host,
     and copied to device (manually or using host-side shells above).
@@ -181,20 +181,20 @@ Libraries
 Standard Libraries
 ------------------
 
-* [micropython-lib](https://github.com/pfalcon/micropython-lib) - dozens
-  of modules ported from CPython, dozens developed specifically for
-  MicroPython.
-* [Backports of MicroPython API modules to CPython](https://github.com/pfalcon/micropython-lib#cpython-backports) -
+* [pycopy-lib](https://github.com/pfalcon/pycopy-lib) - Standard library
+  of the Pycopy project. Dozens of modules ported from CPython, dozens
+  developed specifically for Pycopy.
+* [Backports of Pycopy API modules to CPython](https://github.com/pfalcon/pycopy-lib#cpython-backports) -
   Allows to run software written for MicroPython using CPython (WIP). Part
-  of micropython-lib.
+  of pycopy-lib.
 
 Asynchronous Scheduling and I/O
 -------------------------------
 
-* [uasyncio](https://pypi.org/project/micropython-uasyncio/) (micro-asyncio) -
-  MicroPython’s asynchronous scheduling library, roughly modeled after
-  CPython’s asyncio. [Part](https://github.com/pfalcon/micropython-lib/tree/master/uasyncio)
-  of micropython-lib.
+* [uasyncio](https://pypi.org/project/pycopy-uasyncio/) (micro-asyncio) -
+  Pycopy’s asynchronous scheduling library, roughly modeled after
+  CPython’s asyncio. [Part](https://github.com/pfalcon/pycopy-lib/tree/master/uasyncio)
+  of pycopy-lib.
 
 Graphics
 --------
@@ -225,9 +225,9 @@ Databases
   builtin module, simple "NoSQL" database with dictionary-like interface,
   based on well-known BerkeleyDB 1.xx library. Available in both bare-metal
   and OS ports.
-* [sqlite3](https://pypi.org/project/micropython-sqlite3/) -
-  CPython's sqlite3 module ported to MicroPythin (for Unix port).
-  [Part](https://github.com/pfalcon/micropython-lib/tree/master/sqlite3)
+* [sqlite3](https://pypi.org/project/pycopy-sqlite3/) -
+  Reimplementation of CPython's sqlite3 module for Pycopy (Unix port).
+  [Part](https://github.com/pfalcon/pycopy-lib/tree/master/sqlite3) of pycopy-lib.
 * [micropython-redis](https://github.com/dwighthubbard/micropython-redis) -
   Redis client.
 * [picoredis](https://github.com/SpotlightKid/picoredis) -
@@ -238,16 +238,16 @@ Protocols
 ---------
 
 * HTTP
-  * [urequests](https://pypi.org/project/micropython-urequests/) (micro-requests) -
+  * [urequests](https://pypi.org/project/pycopy-urequests/) (micro-requests) -
     implements a subset of API of well-known "requests" module.
-    [Part](https://github.com/pfalcon/micropython-lib/tree/master/urequests) of
-    micropython-lib.
+    [Part](https://github.com/pfalcon/pycopy-lib/tree/master/urequests) of
+    pycopy-lib.
 
 * DNS
-  * [udnspkt](https://pypi.org/project/micropython-udnspkt/) - DNS queries,
+  * [udnspkt](https://pypi.org/project/pycopy-udnspkt/) - DNS queries,
     [Sans I/O](https://sans-io.readthedocs.io/) approach.
-    [Part](https://github.com/pfalcon/micropython-lib/tree/master/udnspkt) of
-    micropython-lib.
+    [Part](https://github.com/pfalcon/pycopy-lib/tree/master/udnspkt) of
+    pycopy-lib.
 
 * Websocket
   * [websocket](https://github.com/pfalcon/micropython/blob/pfalcon/extmod/modwebsocket.c) - 
@@ -269,9 +269,9 @@ Interfacing with Other Languages
   "Foreign Data" interface for MicroPython. Access binary data structures
   with the expressiveness of C language. "ffi" and "uctypes" modules commonly
   used together.
-* [jni](https://github.com/pfalcon/micropython/blob/pfalcon/ports/unix/modjni.c) -
+* [jni](https://github.com/pfalcon/pycopy/blob/pfalcon/ports/unix/modjni.c) -
   Module for JavaVM integration (using JNI).
-* [micropython-ffigen](https://github.com/pfalcon/micropython-ffigen) -
+* [pycopy-ffigen](https://github.com/pfalcon/pycopy-ffigen) -
   Automatically generate bindings for `ffi`/`uctypes` modules from C header
   files.
 * [micropython-wrap](https://github.com/stinos/micropython-wrap) -
@@ -284,7 +284,7 @@ Textual Data Processing
 * Regular expressions
   * [ure](https://pycopy.readthedocs.io/en/latest/library/ure.html) (micro-re) -
     builtin module which implements subset of regular expression syntax.
-  * [re-pcre](https://pypi.org/project/micropython-re-pcre/) -
+  * [re-pcre](https://pypi.org/project/pycopy-re-pcre/) -
     more complete regular expression implementation, based on PCRE library,
     largely compatible with full CPython re syntax.
 * Templating
