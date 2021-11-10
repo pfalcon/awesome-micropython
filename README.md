@@ -175,6 +175,15 @@ IDEs
 * [Mu Editor](https://github.com/mu-editor/mu)
 * many more
 
+Stubs
+-----
+
+There are Python [stubs](https://www.python.org/dev/peps/pep-0484/#toc-entry-35)
+that brings autocomplete abilities in IDE and type checking.
+
+* [intellij-micropython stubs](https://github.com/vlasovskikh/intellij-micropython/tree/master/typehints) - stubs from IntelliJ micropython plugin
+* [micropython-stubs](https://github.com/Josverl/micropython-stubs) - mostly auto-generated stubs for wide board range
+
 Libraries
 =========
 
