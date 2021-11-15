@@ -183,6 +183,8 @@ that brings autocomplete abilities in IDE and type checking.
 
 * [intellij-micropython stubs](https://github.com/vlasovskikh/intellij-micropython/tree/master/typehints) - stubs from IntelliJ micropython plugin
 * [micropython-stubs](https://github.com/Josverl/micropython-stubs) - mostly auto-generated stubs for wide board range
+* [micropy-stubs](https://github.com/BradenM/micropy-stubs) - another micropython stub collection but dedicaed for [micropy-cli](https://github.com/Josverl/micropython-stubber#using-micropy-cli) tool
+* [micropython-stubber](https://github.com/Josverl/micropython-stubber) - micropython stub generation toolkit
 
 Libraries
 =========
